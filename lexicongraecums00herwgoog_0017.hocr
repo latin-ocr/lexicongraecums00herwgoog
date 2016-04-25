@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexicongraecums00herwgoog_0017.png"; bbox 0 0 4234 6084; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1000 1039 3543 1750">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1000 1039 3543 1750">
+     <span class='ocr_line' id='line_1_1' title="bbox 1764 1039 2790 1275; baseline -0.003 -54"><span class='ocrx_word' id='word_1_1' title='bbox 1764 1039 2790 1275; x_wconf 79' lang='lat' dir='ltr'>Appendix</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1000 1510 3543 1750; baseline -0 -43"><span class='ocrx_word' id='word_1_2' title='bbox 1000 1512 2128 1708; x_wconf 84' lang='lat' dir='ltr'><strong>LEXICI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2301 1510 3543 1750; x_wconf 78' lang='lat' dir='ltr'>GRAECI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1265 1871 3276 1982">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1265 1871 3276 1982">
+     <span class='ocr_line' id='line_1_3' title="bbox 1265 1871 3276 1982; baseline 0 -9"><span class='ocrx_word' id='word_1_4' title='bbox 1265 1871 2154 1982; x_wconf 88' lang='lat' dir='ltr'>SUPPLETORII</span> <span class='ocrx_word' id='word_1_5' title='bbox 2231 1871 2393 1974; x_wconf 87' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 2469 1871 3276 1976; x_wconf 87' lang='lat' dir='ltr'><strong>DIALECTICI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1536 2941 3370 3136">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1536 2941 3370 3136">
+     <span class='ocr_line' id='line_1_4' title="bbox 1536 2941 3370 3136; baseline 0 -71"><span class='ocrx_word' id='word_1_7' title='bbox 1536 2942 1656 3068; x_wconf 87' lang='lat' dir='ltr'>H.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1734 2942 2015 3066; x_wconf 82' lang='lat' dir='ltr'>vAN</span> <span class='ocrx_word' id='word_1_9' title='bbox 2095 2941 3017 3136; x_wconf 58' lang='lat' dir='ltr'>fflERWERDEN</span> <span class='ocrx_word' id='word_1_10' title='bbox 3359 3081 3370 3094; x_wconf 57' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1982 3695 2563 4390">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1982 3695 2563 4390">
+     <span class='ocr_line' id='line_1_5' title="bbox 1982 3695 2563 4390; baseline 0 1694"><span class='ocrx_word' id='word_1_11' title='bbox 1982 3695 2563 4390; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1898 4905 2648 4952">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1898 4905 2648 4952">
+     <span class='ocr_line' id='line_1_6' title="bbox 1898 4905 2648 4952; baseline 0.001 -2"><span class='ocrx_word' id='word_1_12' title='bbox 1898 4907 1935 4950; x_wconf 74' lang='lat'>1,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1938 4905 2648 4952; x_wconf 72' lang='lat' dir='ltr'><strong>UUUUUUUUUUUUUUU</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
